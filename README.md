@@ -2,12 +2,6 @@
 
 A Python OOP lab implementing a `Song` class with instance attributes, class attributes, and class methods to manage and analyze a music library.
 
-## The Scenario
-
-You've just landed a role as a junior software engineer at MusicTech Innovations, a company that powers a popular music streaming service. Your first project involves designing a Python class that encapsulates the essential properties and behaviors of a song, making it easier for the team to manage and analyze the vast collection of tracks.
-
-The `Song` class represents individual songs and maintains global insights — tracking the total number of songs, listing all unique artists and genres, and counting how many songs belong to each genre and artist.
-
 ## Setup
 
 **Requirements:** Python 3.8+, pipenv
